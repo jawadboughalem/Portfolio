@@ -15,8 +15,8 @@ function Header() {
 
             <nav className='portfolio-nav'>
                 <a href="#about">À propos</a>
-                <a href="#education">Formations</a>
                 <a href="#project">Projets</a>
+                <a href="#education">Formations</a>
                 <a href="#cv"> Mon CV</a>
             </nav>
             
