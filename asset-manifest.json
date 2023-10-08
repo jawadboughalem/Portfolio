@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.aacb5d3f.css",
+    "main.js": "/Portfolio/static/js/main.04987d85.js",
+    "static/media/kasa.png": "/Portfolio/static/media/kasa.d1a459caf439f5b9c2f5.png",
+    "static/media/bluel.png": "/Portfolio/static/media/bluel.aaedc3d459a10da86efb.png",
+    "static/media/ppboj.jpg": "/Portfolio/static/media/ppboj.b6250e74b3ec8db4cd2f.jpg",
+    "static/media/grimoire.png": "/Portfolio/static/media/grimoire.eb3f0d8ed700938b8848.png",
+    "static/media/booki.png": "/Portfolio/static/media/booki.11e81067a56d0e2c574f.png",
+    "static/media/nina.png": "/Portfolio/static/media/nina.c70cd4dc67959b53fac1.png",
+    "static/media/BOJCV.pdf": "/Portfolio/static/media/BOJCV.50ba5529202cfdcdf120.pdf",
+    "static/media/php.png": "/Portfolio/static/media/php.00baeb442607d6f50cfe.png",
+    "static/media/qwenta.png": "/Portfolio/static/media/qwenta.af1e0938eb8126af0993.png",
+    "static/media/SASS.webp": "/Portfolio/static/media/SASS.9d178df49998ff16d8d3.webp",
+    "static/media/NODEJS.webp": "/Portfolio/static/media/NODEJS.f157ced94517ffccc6d3.webp",
+    "static/media/REACT.webp": "/Portfolio/static/media/REACT.5fa2d1b2eae9a1034980.webp",
+    "static/media/slack.png": "/Portfolio/static/media/slack.0c70ae08030483b5c6ff.png",
+    "static/media/GITHUB.webp": "/Portfolio/static/media/GITHUB.a4b5c4ed1701f9525d4f.webp",
+    "static/media/notion.webp": "/Portfolio/static/media/notion.7d887c5b0068e33c7bf2.webp",
+    "static/media/mongodb.png": "/Portfolio/static/media/mongodb.495096f3c71200bb00ac.png",
+    "static/media/HTML.webp": "/Portfolio/static/media/HTML.63c1d4a7c3cdc58d5f27.webp",
+    "static/media/logo.png": "/Portfolio/static/media/logo.d4c0674b32e753beaf22.png",
+    "static/media/express.png": "/Portfolio/static/media/express.e3d4f9e5c8b469e45838.png",
+    "static/media/CSS.webp": "/Portfolio/static/media/CSS.4a322767737ab717e555.webp",
+    "static/media/JS.webp": "/Portfolio/static/media/JS.4e35af41001b82552f48.webp",
+    "static/media/SEO.webp": "/Portfolio/static/media/SEO.0e8a245f9d09082716ff.webp",
+    "static/media/Figma.webp": "/Portfolio/static/media/Figma.b88e1940d141804db129.webp",
+    "index.html": "/Portfolio/index.html",
+    "main.aacb5d3f.css.map": "/Portfolio/static/css/main.aacb5d3f.css.map",
+    "main.04987d85.js.map": "/Portfolio/static/js/main.04987d85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aacb5d3f.css",
+    "static/js/main.04987d85.js"
+  ]
+}
